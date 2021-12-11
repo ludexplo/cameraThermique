@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: Le répertoire intermédiaire (Debug\) contient des fichiers partagés provenant d'un autre projet (test fichier ini.vcxproj). Cela peut entraîner un comportement de nettoyage et de régénération incorrect.
+  test fichier ini.cpp
+  test fichier ini.vcxproj -> C:\Users\henry\Desktop\test fichier ini\Debug\test_fichier_ini.exe
